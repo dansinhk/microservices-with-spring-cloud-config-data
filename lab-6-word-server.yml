@@ -5,7 +5,7 @@ words: No,Profile
 spring:
   profiles: subject
   application:
-    name: lab-5-subject
+    name: lab-6-subject
 words: I,You,He,She,It
 
 
@@ -14,7 +14,7 @@ words: I,You,He,She,It
 spring:
   profiles: verb
   application:
-    name: lab-5-verb
+    name: lab-6-verb
 words: ran,knew,had,saw,bought
 
 
@@ -23,7 +23,7 @@ words: ran,knew,had,saw,bought
 spring:
   profiles: article
   application:
-    name: lab-5-article
+    name: lab-6-article
 words: a,the
 
 
@@ -32,7 +32,7 @@ words: a,the
 spring:
   profiles: adjective
   application:
-    name: lab-5-adjective
+    name: lab-6-adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 
@@ -41,12 +41,12 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 spring:
   profiles: noun
   application:
-    name: lab-5-noun
+    name: lab-6-noun
 words: boat,book,vote,seat,backpack,partition,groundhog
 
 ---
 spring:
   profiles: cold-noun
   application:
-    name: lab-5-noun
+    name: lab-6-noun
 words: icicle,refrigerator,blizzard,snowball
